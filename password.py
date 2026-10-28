@@ -1,5 +1,5 @@
 # input a password contain: 1 upper case, 1 sympol and its length 8 or more
-# improved after asking the  doctor 
+
 # 
 password=input("enter a password: ")
 upper=0
